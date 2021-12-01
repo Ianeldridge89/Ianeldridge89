@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ianeldridge89
 - 👀 I’m interested in game programming and design
-- 🌱 I’m currently learning unity and C#
+- 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me ianeldridge89@gmail.com
 
